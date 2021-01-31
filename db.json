@@ -14,7 +14,16 @@
     }
   ],
   
-  "profile": {
-    "name": "typicode"
-  }
+  "profile": [ 
+    {
+      "id": 1,
+        "username": "Ohm",
+        "password": "1234"
+    },
+    {
+      "id": 2,
+      "username": "u2",
+      "password": "haha"
+    }
+    ]
 }
